@@ -1,0 +1,2 @@
+# CS151-Proj8-Trees
+One of the main goals for this week’s project was to combine our previous knowledge of Lsystems from last week with our newly learned knowledge on classes. To learn how to do so, we utilized the lsystem and turtle interpreter class to make a scene consisting of trees and fractals. In arrangement.py and growth.py, I imported both the lsystem and interpreter modules. By not importing turtle in my scenes, the Lsystem string needed to be passed through the drawstring method within the TurtleInterpreter class. By doing so, I was able to create my scenes.
